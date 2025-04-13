@@ -1,0 +1,1 @@
+print("Siamo stati scammati")
